@@ -48,7 +48,7 @@ A next-generation, fully original blockchain infrastructure framework built with
 
 ## Quick Start
 1. Install Go 1.22+
-2. Clone repository: git clone https://github.com/xxx/nexus-chain-go-core.git
+2. Clone repository: git clone https://github.com/JeffWright4910237/nexus-chain-go-core.git
 3. Install dependencies: go mod tidy
 4. Start core node: go run nexus_chain_core.go
 5. Deploy modules independently based on requirements
